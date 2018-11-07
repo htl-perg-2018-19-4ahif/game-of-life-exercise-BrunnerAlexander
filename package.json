@@ -12,6 +12,14 @@
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "concurrently": "^4.0.1",
-    "typescript": "^3.1.3"
-  }
+    "typescript": "^3.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4ahif/game-of-life-exercise-BrunnerAlexander.git"
+  },
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4ahif/game-of-life-exercise-BrunnerAlexander/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4ahif/game-of-life-exercise-BrunnerAlexander#readme"
 }
